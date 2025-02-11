@@ -1,25 +1,12 @@
-araokoudou@araokoudounoMacBook-Air git_challenge % git log                       
-commit 738988308aece72aec7d7070f64edc854e5e5172 (HEAD -> main)
+araokoudou@araokoudounoMacBook-Air git_challenge % git log                              
+commit 1ac537460c280c7a96d89dd3ba8bb911d5eb77fc (HEAD -> main)
 Author: koudou1311 <kodo383@gmail.com>
-Date:   Tue Feb 11 12:15:52 2025 +0900
+Date:   Wed Feb 12 00:19:12 2025 +0900
 
-    日本語訳を追加
+    日本語訳を追記
 
-commit 097d7373f7df2d38c20d9e995493ffd4d6a6e0f3
+commit fdb196db3f1d2b31424115c9f92e2e0db240abc9
 Author: koudou1311 <kodo383@gmail.com>
-Date:   Tue Feb 11 12:09:20 2025 +0900
+Date:   Wed Feb 12 00:18:09 2025 +0900
 
-    ３回目のコミット
-
-commit e7ec2502aecc223dd383542014e46fc07de706cc
-Author: koudou1311 <kodo383@gmail.com>
-Date:   Tue Feb 11 12:06:57 2025 +0900
-
-    ２回目のコミット
-
-commit 09470a5241543595b453b3c569b189624a111ba7
-Author: koudou1311 <kodo383@gmail.com>
-Date:   Tue Feb 11 11:48:08 2025 +0900
-
-    最初のコミット
-(END)
+    hello_world.txtを追加
